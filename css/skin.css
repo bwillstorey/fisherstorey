@@ -633,7 +633,7 @@ body,
 
 /* Transparent Header Initial & Active Nav Colors */
 .header-transparent .header-inner{
-	background-color: transparent;
+	background-color: #8e8f91;
 	border-bottom: 1px solid transparent;
 }
 .header-transparent .header-inner > .nav-bar{
@@ -2182,7 +2182,7 @@ body,
 	background-image: url(../images/team/hero-half-4.jpg);
 }
 .hero-5-about-5 .media-column{
-	background-image: url(../images/logo.png);
+	background-image: url(../images/headshot.png);
 	background-size: auto;
 }
 
