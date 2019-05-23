@@ -365,7 +365,7 @@ body,
 	box-shadow: 0 2rem 4.6rem rgba(0,0,0,0.9);
 }
 .section-block.featured-media{
-	background-color: #181818;
+	background-color: #39dabf;
 }
 
 /* greyscale */
@@ -2182,7 +2182,8 @@ body,
 	background-image: url(../images/team/hero-half-4.jpg);
 }
 .hero-5-about-5 .media-column{
-	background-image: url(../images/headshot.jpg);
+	background-image: url(../images/logo.png);
+	background-size: auto;
 }
 
 /*------------------------------------------------------------------
