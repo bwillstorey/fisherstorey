@@ -688,8 +688,8 @@ body,
 
 /* Initial Logo Width */
 .header .logo{
-	width: 30rem;
-	
+	width: 22rem;
+	margin-top: 0;
 }
 .header .logo h2 {
 	color: #fff;
