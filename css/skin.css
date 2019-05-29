@@ -494,8 +494,8 @@ body,
 .fullscreen-section .fullscreen-inner,
 .pagination-2 .pagination-next,
 .row.xlarge{
-	padding-top: 11rem;
-	padding-bottom: 11rem;
+	/* padding-top: 5rem; */
+	padding-bottom: 5rem;
 }
 .replicable-content,
 .row.xlarge.replicable-content{
@@ -2183,7 +2183,11 @@ body,
 }
 .hero-5-about-5 .media-column{
 	background-image: url(../images/headshot.png);
-	background-size: auto;
+	background-size: 400px;
+}
+.hero-6-about-6 .media-column{
+	background-image: url(../images/Laurel-Fisher-03.jpg);
+	background-size: 400px;
 }
 
 /*------------------------------------------------------------------
