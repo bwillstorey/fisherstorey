@@ -53,7 +53,8 @@ body,
 input, 
 textarea,
 select{
-	font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+	/* font-family: 'Open Sans', 'Helvetica Neue', sans-serif; */
+	font-family: 'Playfair Display', sans-serif;
 }
 h1, 
 h2, 
@@ -70,7 +71,8 @@ button,
 .side-navigation > ul > li > a,
 .overlay-navigation > ul > li > a,
 blockquote cite{
-	font-family: 'Montserrat', 'Helvetica Neue', sans-serif;
+	/* font-family: 'Montserrat', 'Helvetica Neue', sans-serif; */
+	font-family: 'Playfair Display', sans-serif;
 }
 .font-alt-2,
 blockquote p,
@@ -365,7 +367,11 @@ body,
 	box-shadow: 0 2rem 4.6rem rgba(0,0,0,0.9);
 }
 .section-block.featured-media{
-	background-color: #7bd7c7;
+	background-color: #7bd7c841;
+	background-image: url(../images/header-photo.jpg);
+	background-size: 50%;
+	background-repeat: no-repeat;
+	background-position: bottom;
 }
 
 /* greyscale */
@@ -524,7 +530,7 @@ body,
 }
 .grid-filter-menu{
 	padding-top: 5rem;
-	padding-bottom: 5rem;
+	/* padding-bottom: 5rem; */
 }
 .section-block.feature-2{
 	padding-bottom: 12rem;
@@ -633,7 +639,7 @@ body,
 
 /* Transparent Header Initial & Active Nav Colors */
 .header-transparent .header-inner{
-	background-color: #8e8f91;
+	background-color: #232323;
 	border-bottom: 1px solid transparent;
 }
 .header-transparent .header-inner > .nav-bar{
@@ -688,7 +694,7 @@ body,
 
 /* Initial Logo Width */
 .header .logo{
-	width: 22rem;
+	width: 33rem;
 	margin-top: 0;
 }
 .header .logo h2 {
