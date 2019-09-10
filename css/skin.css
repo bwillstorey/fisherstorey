@@ -367,7 +367,7 @@ body,
 	box-shadow: 0 2rem 4.6rem rgba(0,0,0,0.9);
 }
 .section-block.featured-media{
-	background-color: ##fff;
+	background-color: #fff;
 	background-image: url(../images/header-photo.jpg);
 	background-size: 50%;
 	background-repeat: no-repeat;
